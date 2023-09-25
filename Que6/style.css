@@ -1,0 +1,23 @@
+#div{
+    width: 400px;
+    height: 200px;
+    background-color: rgba(198, 125, 125, 0.455);
+    border-radius: 10px;
+    padding-top: 10px;
+    padding-left: 10px;
+}
+.Form{
+    background-color: beige;
+
+}
+#name{
+    background-color: rgba(232, 129, 11, 0.298);
+}
+#phone{
+    background-color: rgba(232, 129, 11, 0.298);
+}
+address{
+    background-color: blueviolet;
+#multiSelrct{
+    background-color: rgba(232, 129, 11, 0.298);
+}
